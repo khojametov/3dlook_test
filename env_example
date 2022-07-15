@@ -1,0 +1,17 @@
+PROJECT_NAME=3dlook
+DJANGO_SETTINGS_MODULE=config.settings.local
+ALLOWED_HOSTS=*
+
+# Database
+DB_NAME=3dlook
+DB_USER=3dlook
+DB_PASSWORD=3dlook
+DB_HOST=localhost
+DB_PORT=7777
+
+# Redis
+REDIS_PORT=6666
+
+# Celery
+CELERY_TIMEZONE=Asia/Tashkent
+
